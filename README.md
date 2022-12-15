@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">A passionate Front End developer from India</h3>
+<h3 align="center">A passionate FrontEnd developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://arunkumaar.netlify.app](https://arunkumaar.netlify.app)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,React**
+- 💬 Ask me about **Frontend Technology**
 
 - 📫 How to reach me **arundeva1710@gmail.com**
 
