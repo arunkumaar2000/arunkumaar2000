@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">A passionate FrontEnd developer from India</h3>
+<h3 align="center">A passionate FrontEnd Developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
