@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://arunkumaar.netlify.app](https://arunkumaar.netlify.app)
+- 👨‍💻 All of my projects are available at [https://github.com/arunkumaar2000](https://github.com/arunkumaar2000)
 
 - 💬 Ask me about **Frontend Technology**
 
