@@ -1,3 +1,4 @@
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A passionate FrontEnd Developer from India</h3>
 
